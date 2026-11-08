@@ -84,7 +84,7 @@ func main() {
 
 ## 🌱 Actualmente
 
-- 🎓 Estudiante de Ingeniería de Sistemas en curso
+- 🎓 Estudiante del tecnólogo en Análisis y Desarrollo de Software
 - 📚 Profundizando en **Go** — goroutines, interfaces y manejo de errores
 - 🗄️ Diseño de bases de datos con **SQL** y **PostgreSQL**
 - 🌐 Construyendo interfaces con **HTML** y **CSS**
